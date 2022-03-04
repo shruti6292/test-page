@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Test Page</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h2>Testing webpage using Github Link</h2>
+        <!-- Your code here -->
+    <div id="pie"></div>
+
+    <script src="data.js"></script>
+    <script src="plots.js"></script>
+</body>
+<body>
+    <head> Ploty with different states </head>
+    <h1>Ploty with Options</h1>
+    <select id="SelectOption">
+         <option value="option1">Menu Option 1</option>
+         <option value="option2">Menu Option 2</option>
+         
+    </select>
+
+</body>
+</html>
+  
