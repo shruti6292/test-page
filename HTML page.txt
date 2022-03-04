@@ -17,7 +17,7 @@
     <script src="plots.js"></script>
 </body>
 <body>
-    <head> Ploty with different states </head>
+    <head> Tast Page </head>
     <h1>Ploty with Options</h1>
     <select id="SelectOption">
          <option value="option1">Menu Option 1</option>
